@@ -1,0 +1,3 @@
+Sprites retirados do pack "Tiny Dungeon", por Kenney: https://kenney.nl/assets/tiny-dungeon
+
+Curso "Começando na Godot 4", disponível no canal do YouTube, "Desenvolvendo Jogos".
